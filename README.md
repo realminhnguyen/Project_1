@@ -3,7 +3,7 @@
 ### Project Proposal
 #### Cost of Living Index 1980 to 2023 Comparative Analysis
 
-This Project serves to analyze and present the cost-of-living, inflation, and other economical trends from the 1980s to 2023 in a more aesthetic manner. Current tools from the US Bureau of Labor Statistics do not provide visually appealing means to view trends and numbers. We will bridge the gap between interesting data and presentability.
+This Project serves to analyze and present the cost-of-living, inflation, and other economic trends from the 1980s to 2023 in a more aesthetic manner. Current tools from the US Bureau of Labor Statistics do not provide visually appealing means to view trends and numbers. We will bridge the gap between interesting data and presentability.
 
 #### Questions to Answer
 1. How has the cost of living in the United States evolved over the past four decades, specifically from 1980 to 2023?
@@ -26,8 +26,8 @@ We are going to download various desired CSV files to paint the picture of the e
 ##### Data Cleanup & Analysis
 ###### Data Cleanup
 Use Pandas to retrieve the csv files, explore the data, and clean it up. This includes:
-- Removing nulls/reubilding missing data with .dropna() method when the amount of missing data is realtively small.
+- Removing nulls/rebuilding missing data with the.dropna() method when the amount of missing data is relatively small.
 - Find duplicate values and remove them if they are deemed unnecessary.
 
 ###### Analysis
-We will focus on analysis techniques such as aggregation, correlation, comparison, sum,ary statistics, and financial analysis.
+We will focus on analysis techniques such as aggregation, correlation, comparison, summary statistics, and financial analysis.
