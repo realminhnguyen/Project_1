@@ -19,6 +19,9 @@ This Project serves to analyze and present the cost-of-living, inflation, and ot
 - [FiscalData.Treasury.Gov](https://fiscaldata.treasury.gov/datasets/historical-debt-outstanding/historical-debt-outstanding)
 - [Federal Reserve Economic Data](https://fred.stlouisfed.org)
 
+#### Extra library to be used
+**Numpy** for math and computation.
+
 #### Breakdown of Tasks
 ##### Hunt for Data
 We are going to download various desired CSV files to paint the picture of the economic landscape over the past 4 decades. 
