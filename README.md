@@ -20,7 +20,7 @@ This Project serves to analyze and present the cost-of-living, inflation, and ot
 - [Federal Reserve Economic Data](https://fred.stlouisfed.org)
 
 #### Extra library to be used
-**Scipy** for math and computation.
+**Plotly** for math and computation.
 
 #### Breakdown of Tasks
 ##### Hunt for Data
